@@ -1,0 +1,41 @@
+button {
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+    color: #fff;
+    background-color: #dc3545;
+    margin-top: 300px;
+}
+
+
+.popover {
+    border: 2px solid rgb(180, 171, 171);
+    background-color: rgb(218, 213, 209);
+    padding: 5px;
+    width: 300px;
+}
+
+#title {
+    margin-bottom: 0px;
+}
+
+#text {
+    margin-top: 0px;
+}
+
+.hidden {
+    display: none;
+}
+
+.all {
+    text-align: center;
+}
+
+#toggle {
+    position: absolute;
+    top: 19%;
+    left: calc(50% - 160px);
+}
+
+
+
