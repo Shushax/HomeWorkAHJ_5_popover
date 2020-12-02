@@ -18,7 +18,7 @@ btn.onclick = function () {
     div.insertAdjacentElement('afterbegin', p);
     div.insertAdjacentElement('afterbegin', h1);
     div.style.position = 'absolute';
-    div.style.left = '38%';
+    div.style.left = '41.5%';
     div.style.top = '19%';
   }
 };
