@@ -6,9 +6,9 @@ describe('toggle', () => {
     let page = null;
     const baseUrl = 'http://localhost:9000';
     browser = await puppeteer.launch({
-      headless: false,
-      slowMo: 100,
-      devtools: true,
+      // headless: false,
+      // slowMo: 100,
+      // devtools: true,
     });
     page = await browser.newPage();
     await page.goto(baseUrl);
